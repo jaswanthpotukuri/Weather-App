@@ -1,6 +1,6 @@
 Problem statement : 
 
- This project ‘Weather Network’ tells the weather of particular city or place when the user typed in the search bar.
+ This project ‘Weather App’ tells the weather of particular city or place when the user typed in the search bar.
 
  This project helps to see the weather report of particular city or place.
 
